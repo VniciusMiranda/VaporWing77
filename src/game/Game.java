@@ -198,7 +198,7 @@ public class Game extends Canvas implements Runnable{
 		thread = new Thread(this); 
 		thread.start();
 		running = true;
-		
+
 		audio.playingForeverAfterSomeTime("data/sound_effects/music.wav", 340000, 8700);
 		Paint.renderImages();
 		Paint.background = Paint.background1;

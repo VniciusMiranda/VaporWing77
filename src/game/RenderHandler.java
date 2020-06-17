@@ -9,7 +9,7 @@ import game_objects.GameObject;
 public class RenderHandler {
 	
 	
-	// CREATING A LIST VARIABLE OF TYPE GAMEOBJECT *******************************************************************************************************************************************
+	// CREATING A LIST VARIABLE OF TYPE GAME OBJECT *******************************************************************************************************************************************
 	
 	
 	public List<GameObject> object = new ArrayList<GameObject>();
